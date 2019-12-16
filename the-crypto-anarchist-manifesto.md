@@ -16,6 +16,4 @@ Just as the technology of printing altered and reduced the power of medieval gui
 
 Arise, you have nothing to lose but your barbed wire fences!
 
-_Timothy C. May_
-
-tcmay@netcom.com
+_Timothy C. May_ - `tcmay@netcom.com`
