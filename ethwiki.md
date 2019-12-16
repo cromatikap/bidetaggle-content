@@ -9,28 +9,28 @@
 
 ### DEX prices comparators
 
-- dexindex.io
-- dex.ag
+- [dexindex.io](https://dexindex.io/)
+- [dex.ag](https://dex.ag/)
 
 ### DEX
 
-- ethfinex.com
-- kyberswap.com
-- airswap.io
-- ddex.io
-- oasis.app
+- [deversifi.com](https://www.deversifi.com/) (ex ethfinex.com)
+- [kyberswap.com](https://kyberswap.com/swap)
+- [airswap.io](https://www.airswap.io/)
+- [ddex.io](https://ddex.io/)
+- [oasis.app](https://oasis.app/)
 
 ### Jobs Marketplaces
 
-- bounties.network
-- ethlance.com
+- [bounties.network](https://www.bounties.network/)
+- [ethlance.com](https://ethlance.com/)
 
 ### Misc.
 
-- defisaver.com
-- fuse.io
-- app.request.network
+- [defisaver.com](https://defisaver.com/)
+- [fuse.io](https://fuse.io/)
+- [app.request.network](https://app.request.network/)
 
 ### Games
 
-- cryptokitties.co
+- [cryptokitties.co](https://www.cryptokitties.co/)
