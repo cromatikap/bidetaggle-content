@@ -19,6 +19,7 @@
 - [airswap.io](https://www.airswap.io/)
 - [ddex.io](https://ddex.io/)
 - [oasis.app](https://oasis.app/)
+- [bitcratic.com](https://www.bitcratic.com)
 
 ### Jobs Marketplaces
 
