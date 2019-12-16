@@ -30,3 +30,7 @@
 - defisaver.com
 - fuse.io
 - app.request.network
+
+### Games
+
+- cryptokitties.co
