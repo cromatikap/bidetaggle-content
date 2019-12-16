@@ -35,3 +35,4 @@
 ### Games
 
 - [cryptokitties.co](https://www.cryptokitties.co/)
+- [https://play.0xracers.com/](https://play.0xracers.com/?utm_source=StateOfTheDApps)
