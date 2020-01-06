@@ -8,6 +8,8 @@
   - George Orwell
 - `Think like a commoner`
   - David Bollier
+- `Atomic Habits`
+  - James Clear
 
 ## French language
 
