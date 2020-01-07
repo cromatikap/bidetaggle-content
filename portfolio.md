@@ -9,6 +9,7 @@
 
 ### Techno
 
+- Linux server administration (Ubuntu)
 - meteorjs
 - nodejs
 - pug
@@ -23,6 +24,7 @@
 
 ### Techno
 
+- Linux server administration (Arch Linux)
 - nodejs
 - mongodb
 
@@ -31,9 +33,12 @@
 ### Demo
 
 - [Website](https://zerobox.gr/)
+- [mailbox](https://mail.luteciacorp.org)
 
 ### Techno
 
+- Linux server administration (Ubuntu)
+- docker-compose
 - nodejs
 - express
 - html/css
