@@ -32,7 +32,9 @@
 - [fuse.io](https://fuse.io/)
 - [app.request.network](https://app.request.network/)
 
-### Games
+### Games & Art
 
 - [cryptokitties.co](https://www.cryptokitties.co/)
 - [play.0xracers.com](https://play.0xracers.com/?utm_source=StateOfTheDApps)
+- [pixelchain](https://pixelchain.art/)
+- [cryptovoxels](https://www.cryptovoxels.com/)
