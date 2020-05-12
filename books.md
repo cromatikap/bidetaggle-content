@@ -23,3 +23,9 @@
   - Bruno Jarrosson
 - `Le Sculpteur`
   - Scott McCloud
+- `L'homme qui voulait être heureux`
+  - Laurent Gounelle
+- `L'art de la guerre`
+  - Sun Tzu
+- `Royaumes d'aventure - Ils ont fondé leur propre Etat`
+  - Bruno Fuligni
