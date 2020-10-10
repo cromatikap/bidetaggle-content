@@ -1,4 +1,4 @@
-{[{
+[{
   "title": "zerobox",
   "description": "fullstack lightweight product, highly customizable",
   "technology": "docker . node - Express - mongodb . mongo . html - css - pure JS",
@@ -26,4 +26,4 @@
     "android": "https://play.google.com/store/apps/details?id=com.interesting_links.release"
   },
   "picture": "https://cloud.elektr.io/apps/files_sharing/publicpreview/MwTNY4RSiZQNHY7?fileId=264089&file=/projects/interesting-links.png&x=1280&y=800&a=true"
-}]}
+}]
