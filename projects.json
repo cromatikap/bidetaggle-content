@@ -1,5 +1,5 @@
 [{
-  "title": "zerobox",
+  "name": "zerobox",
   "description": "fullstack lightweight product, highly customizable",
   "technology": "docker . node - Express - mongodb . mongo . html - css - pure JS",
   "demos": { 
@@ -8,7 +8,7 @@
   "picture": "https://cloud.elektr.io/apps/files_sharing/publicpreview/MwTNY4RSiZQNHY7?fileId=264062&file=/projects/zerobox.png&x=1280&y=800&a=true"
 },
 {
-  "title": "Freeview Dating",
+  "name": "Freeview Dating",
   "description": "Mobile application for iOS/Android.",
   "technology": "react-native - react-navigation - RN-gifted-chat - RN-iap . docker . node - Express - mongoose . mongo . reactJs-RESTful API",
   "demos": {
@@ -18,7 +18,7 @@
   "picture": "https://cloud.elektr.io/apps/files_sharing/publicpreview/MwTNY4RSiZQNHY7?fileId=264077&file=/projects/freeview-dating.png&x=1280&y=800&a=true"
 },
 {
-  "title": "interesting links",
+  "name": "interesting links",
   "description": "Multiplatform web application available on the PlayStore.",
   "technology": "systemd . meteorJS . pure JS",
   "demos": {
