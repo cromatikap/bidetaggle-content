@@ -24,7 +24,7 @@
   "description": "fullstack lightweight product, highly customizable",
   "technology": "docker . node - Express - mongodb . mongo . html - css - pure JS",
   "demos": { 
-    "website": "https://subscription.zerobox.gr/",
+    "website": "https://subscribe.zerobox.gr/",
     "git": "https://gitlab.com/bidetaggle/zerobox-website"
   },
   "picture": "https://cloud.elektr.io/apps/files_sharing/publicpreview/MwTNY4RSiZQNHY7?fileId=264062&file=/projects/zerobox.png&x=1280&y=800&a=true"
