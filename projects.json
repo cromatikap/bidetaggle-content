@@ -34,7 +34,7 @@
   "description": "minecraft server based on paper spigot",
   "technology": "Ubuntu . nginx . docker-compose . paperspigot-docker",
   "demos": { 
-    "website": "https://headquarter.elektr.io/tag/minecraft/",
+    "website": "https://mc.elektr.io",
     "git": "https://github.com/bidetaggle/paperspigot-docker"
   },
   "picture": "https://cloud.elektr.io/apps/files_sharing/publicpreview/MwTNY4RSiZQNHY7?fileId=264102&file=/projects/mc.elektr.io.png&x=1280&y=800&a=true"
