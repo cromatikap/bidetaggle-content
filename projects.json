@@ -1,7 +1,7 @@
 [{
   "name": "Freeview Dating",
   "description": "Mobile application for iOS/Android.",
-  "technology": "react-native - react-navigation - RN-gifted-chat - RN-iap . docker . node - Express - mongoose . mongo . reactJs-RESTful API",
+  "technology": "react-native - react-navigation - RN-gifted-chat - RN-iap . docker . node - Express - mongoose . mongo . reactJs-RESTful API . gimp",
   "demos": {
     "android": "https://play.google.com/store/apps/details?id=com.boxbeat.kisschatproudchat",
     "ios": "https://apps.apple.com/us/app/id1513322663"
@@ -32,7 +32,7 @@
 {
   "name": "mc.elektr.io",
   "description": "minecraft server based on paper spigot",
-  "technology": "Ubuntu . nginx . docker-compose . paperspigot-docker",
+  "technology": "Ubuntu . nginx . docker-compose . paperspigot-docker . Wordpress . gimp",
   "demos": { 
     "website": "https://mc.elektr.io",
     "git": "https://github.com/bidetaggle/paperspigot-docker"
