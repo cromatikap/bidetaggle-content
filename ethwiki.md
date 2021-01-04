@@ -20,6 +20,7 @@
 - [ddex.io](https://ddex.io/)
 - [oasis.app](https://oasis.app/)
 - [bitcratic.com](https://www.bitcratic.com)
+- [upkaran.finance](https://upkaran.finance)
 
 ### Jobs Marketplaces
 
