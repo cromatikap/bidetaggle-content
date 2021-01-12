@@ -15,12 +15,16 @@
 ### DEX
 
 - [deversifi.com](https://www.deversifi.com/) (ex ethfinex.com)
-- [kyberswap.com](https://kyberswap.com/swap)
-- [airswap.io](https://www.airswap.io/)
 - [ddex.io](https://ddex.io/)
 - [oasis.app](https://oasis.app/)
 - [bitcratic.com](https://www.bitcratic.com)
 - [upkaran.finance](https://upkaran.finance)
+
+### swap DEX
+
+- [kyberswap.com](https://kyberswap.com/swap)
+- [airswap.io](https://www.airswap.io/)
+- [relay](https://relay.radar.tech/)
 
 ### Jobs Marketplaces
 
